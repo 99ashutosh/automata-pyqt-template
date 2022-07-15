@@ -1,0 +1,8 @@
+digraph {
+	graph [rankdir=LR]
+	q1
+	q2
+	q3
+	q1 -> q2
+	q2 -> q3
+}

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="root">
+    <file>machine.png</file>
+    <file>Lang.png</file>
+    <file>g1.png</file>
+  </qresource>
+</RCC>

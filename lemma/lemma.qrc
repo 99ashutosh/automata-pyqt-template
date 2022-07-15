@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="root">
+    <file>font/FiraSans-Bold.ttf</file>
+    <file>font/FiraSans-Light.ttf</file>
+    <file>font/FiraSans-Regular.ttf</file>
+    <file>font/FiraSans-SemiBold.ttf</file>
+    <file>constraint1.png</file>
+    <file>constraint2.png</file>
+    <file>machine.png</file>
+    <file>statement.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
